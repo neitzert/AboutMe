@@ -1,8 +1,5 @@
 # AboutMe
 
-Eventually a colorful biography will be put here. 
-
-In the mean time find me here or there:
-* Twitter: @cneitzert
-* Keybase: @ckn
-* LinkedIn: http://www.linkedin.com/in/neitzert
+Christopher Neitzert
+Human, hacker, technologist, occasional artist. Aude sapere, audacia necessaria!
+http://www.neitzert.io
